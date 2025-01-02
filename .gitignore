@@ -186,5 +186,5 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/node
 
 # temporary folders 
-tmp/ 
-temp/
+/tmp
+/temp
